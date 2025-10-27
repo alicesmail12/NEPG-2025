@@ -6,4 +6,4 @@
 4. Fay, A. et al. (2020) A Mitochondrial tRNA Mutation Causes Axonal CMT in a Large Venezuelan Family. Annals of Neurology, 88(4), 830–842.
 5. Cao, L., Yang, J., Zhang, X., Wang, X., Chen, Z., Tan, S., & Yang, J. (2023) Clinical, neurophysiological evaluation and genetic features of axonal Charcot–Marie–Tooth disease in a Chinese family. Frontiers in Neurology, 14.
 6. Shi, Y. et al. (2024) A Homoplasmic MT‐TV Mutation Associated with Mitochondrial Inheritance of Hereditary Spastic Paraplegia. Movement Disorders, mds.30048.
-7. 
+7. Guan, M.-X. et al. (2006) Mutation in TRMU related to transfer RNA modification modulates the phenotypic expression of the deafness-associated mitochondrial 12S ribosomal RNA mutations. The American Journal of Human Genetics, 79(2).
